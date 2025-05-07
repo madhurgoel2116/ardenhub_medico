@@ -1,4 +1,4 @@
-# ArdenHub Medico - Revival System
+# ArDenHub Medico - Revival System
 
 ## Description
 ArdenHub Medico is a FiveM script that allows players to request medical assistance when they are dead, paying a sum of money to be revived. This system offers an alternative to traditional medical service when there are no medics available on the server.
